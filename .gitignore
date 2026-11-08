@@ -73,3 +73,14 @@ crashlytics-build.properties
 # Temporary auto-generated Android Assets
 /[Aa]ssets/[Ss]treamingAssets/aa.meta
 /[Aa]ssets/[Ss]treamingAssets/aa/*
+
+# Ficheiros temporarios do projeto Unity
+SistemaPlanetario/[Ll]ibrary/
+SistemaPlanetario/[Tt]emp/
+SistemaPlanetario/[Oo]bj/
+SistemaPlanetario/[Ll]ogs/
+SistemaPlanetario/[Uu]ser[Ss]ettings/
+SistemaPlanetario/[Bb]uild/
+SistemaPlanetario/[Bb]uilds/
+SistemaPlanetario/.vs/
+SistemaPlanetario/.vscode/
